@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e88118e882d349c58da113e2f4fc8565/artifacts
+end_time: 1724064220711
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e88118e882d349c58da113e2f4fc8565
+run_name: polite-jay-424
+run_uuid: e88118e882d349c58da113e2f4fc8565
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724064220627
+status: 3
+tags: []
+user_id: melbey

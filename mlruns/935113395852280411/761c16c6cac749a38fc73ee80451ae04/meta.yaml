@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/melbey/Desktop/cat%C3%A9gorisation/mlruns/935113395852280411/761c16c6cac749a38fc73ee80451ae04/artifacts
+end_time: 1724064480216
+entry_point_name: ''
+experiment_id: '935113395852280411'
+lifecycle_stage: active
+run_id: 761c16c6cac749a38fc73ee80451ae04
+run_name: skillful-doe-105
+run_uuid: 761c16c6cac749a38fc73ee80451ae04
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724064480035
+status: 3
+tags: []
+user_id: melbey
